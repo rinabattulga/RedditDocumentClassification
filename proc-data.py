@@ -1,1 +1,0 @@
-reddit_wsb_le = 0
