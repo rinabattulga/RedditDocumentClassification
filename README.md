@@ -35,4 +35,4 @@ Randomly partitioned dataset into trainging (80%), validation (10%), and test (1
 
 Important to note that the dataset is skewed with some categories having way more datapoints. 
 
-![alt text](https://github.com/rinabattulga/RedditDocumentClassification/blob/main/SkewedDist.png | width=100)
+![](https://github.com/rinabattulga/RedditDocumentClassification/blob/main/SkewedDist.png =250x250)
