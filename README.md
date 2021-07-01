@@ -33,6 +33,4 @@ https://www.kaggle.com/viktorarsovski/randroiddev-data-20152019
 
 Randomly partitioned dataset into trainging (80%), validation (10%), and test (10%). 
 
-Important to note that the dataset is skewed with some categories having way more datapoints. 
-
-![](https://github.com/rinabattulga/RedditDocumentClassification/blob/main/SkewedDist.png)
+Important to note that the dataset is skewed with some categories having way more datapoints. Thus, created a balanced distributed test set as well.  
